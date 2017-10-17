@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  程序内国际化
+
+  Created by x on 17/10/17.
+  Copyright © 2017年 cesiumai. All rights reserved.
+*/
+"Dog" = "狼狗";
+
+"Cat" = "猫";
+
+"Pig" = "猪";
+
+"Animal" = "动物";
+
+"changLanguage" = "切换语言";
+
+"equalSystem" = "与系统保持一致";
+
+"English" = "英文";
+
+"Chinese" = "中文";

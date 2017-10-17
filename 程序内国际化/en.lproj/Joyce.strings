@@ -1,0 +1,10 @@
+/* 
+  Joyce.strings
+  程序内国际化
+
+  Created by x on 17/10/17.
+  Copyright © 2017年 cesiumai. All rights reserved.
+*/
+
+
+//这里与系统的本地化是一样的  详见Localizable.strings(English)文件当中的注解，系统不会查找这个文件，需要你自己去找

@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  程序内国际化
+
+  Created by x on 17/10/17.
+  Copyright © 2017年 cesiumai. All rights reserved.
+*/
+
+
+// 当设置为英文环境的话，使用key来查找，没有对应的值，就会返回key，作为值，所以可以偷懒不用配置英文环境的键值
+
+// 当然如果你设置的key是中文的话，就要在配置英文环境下的键值(省略中文环境下的配置)，也就是这个文件 例如：“狗” = “Dog”；
+
+// 如果你不想偷懒就按照这样吧,去掉注释即可，不配置也是一样的
+/*
+ 
+ "Dog" = "Dog";
+ 
+ "Cat" = "Cat";
+ 
+ "Pig" = "Pig";
+ 
+ "Animal" = "Animal";
+ 
+ "changLanguage" = "changLanguage";
+ 
+ */

@@ -1,0 +1,1 @@
+# 方便起见请移步[简书查看](http://www.jianshu.com/p/191fa63abcf0)
